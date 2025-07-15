@@ -24,10 +24,10 @@ test('Hard assetion', async ({ page }) => {
         await page.locator('#userEmail').fill('bharaniravi789@gmail.com');
         await page.locator('#currentAddress').fill('92,Mugil street,Arul velavannagar');
          await page.locator('#permanentAddress').fill('92,Mugil street,Arul velavannagar');
-         //checking for editable to make it as failed
-         await expect(page.getByRole('button',{name:'Submit'})).toBeEnabled();
+         //checking for editable to make it as failed and set as example for soft assert
+         await expect.soft(page.getByRole('button',{name:'Submit'})).toBeEnabled();
          await expect(page).toHaveURL("https://demoqa.com/text-box")
-         await expect(page).toHaveTitle("DEMOQA");
+         await expect.soft(page).toHaveTitle("DEMOQA hedgjdeg");
          await page.getByRole('button',{name:'Submit'}).click();
         
     })
