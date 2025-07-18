@@ -26,9 +26,11 @@ test('Hard assetion', async ({ page }) => {
          await page.locator('#permanentAddress').fill('92,Mugil street,Arul velavannagar');
          //checking for editable to make it as failed
          await expect(page.getByRole('button',{name:'Submit'})).toBeEnabled();
-         await expect(page).toHaveURL("https://demoqa.com/text-box")
-         await expect(page).toHaveTitle("DEMOQA");
+         await expect(page).toHaveURL("https://demoqa.com/text-box");
+         await expect(page).toHaveTitle("DEMOQA iuiu");
+       //  await expect(1).toHaveProperty("2");
          await page.getByRole('button',{name:'Submit'}).click();
+         await page.close();
         
     })
       
