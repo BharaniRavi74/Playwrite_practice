@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="8.359925000000745">
+<testsuite name="Chapter4\07_check_box_Radio.spec.ts" timestamp="2025-07-26T07:07:43.183Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.967" errors="0">
+<testcase name="Input box input type" classname="Chapter4\07_check_box_Radio.spec.ts" time="4.967">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Chapter4-07_check_box_Radio-Input-box-input-type-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
