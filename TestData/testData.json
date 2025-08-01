@@ -1,0 +1,14 @@
+{
+    "testData1": {
+        "Username": "standard_user",
+        "Password": "secret_sauce"
+    },
+    "testData2": {
+        "Username": "visual_user",
+        "Password": "secret_sauce"
+    },
+    "testData3": {
+        "Username": "problem_user",
+        "Password": "secret_sauce"
+    }
+}

@@ -6,7 +6,7 @@
     "fullyParallel": true,
     "globalSetup": null,
     "globalTeardown": null,
-    "globalTimeout": 100000,
+    "globalTimeout": 300000,
     "grep": {},
     "grepInvert": null,
     "maxFailures": 0,
@@ -72,13 +72,13 @@
   },
   "suites": [
     {
-      "title": "Chapter4\\07_check_box_Radio.spec.ts",
-      "file": "Chapter4/07_check_box_Radio.spec.ts",
+      "title": "Chapter5\\02_csv_test_data.spec.ts",
+      "file": "Chapter5/02_csv_test_data.spec.ts",
       "column": 0,
       "line": 0,
       "specs": [
         {
-          "title": "Input box input type",
+          "title": "Login and select the filter dropDown standard_user,secret_sauce",
           "ok": true,
           "tags": [],
           "tests": [
@@ -90,51 +90,103 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 41,
+                  "workerIndex": 4,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 4967,
+                  "duration": 7252,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "steps": [
-                    {
-                      "title": "Navigate to URL",
-                      "duration": 3671
-                    },
-                    {
-                      "title": "repos link",
-                      "duration": 260
-                    }
-                  ],
-                  "startTime": "2025-07-26T07:07:44.430Z",
+                  "startTime": "2025-07-27T02:03:43.252Z",
                   "annotations": [],
-                  "attachments": [
-                    {
-                      "name": "screenshot",
-                      "contentType": "image/png",
-                      "path": "C:\\Users\\ASUS\\OneDrive\\文档\\playWriteLearning\\test-results\\Chapter4-07_check_box_Radio-Input-box-input-type-chromium\\test-finished-1.png"
-                    }
-                  ]
+                  "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "5772ea50e3d759e7ceed-d8d20f21ce54f2587eed",
-          "file": "Chapter4/07_check_box_Radio.spec.ts",
-          "line": 20,
-          "column": 5
+          "id": "87a0288ec59a5f8635f2-3d8f0f5bebf2271fbe04",
+          "file": "Chapter5/02_csv_test_data.spec.ts",
+          "line": 23,
+          "column": 9
+        },
+        {
+          "title": "Login and select the filter dropDown visual_user,secret_sauce",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 120000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6226,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-27T02:03:52.571Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "87a0288ec59a5f8635f2-9f70fa320e92f850c24e",
+          "file": "Chapter5/02_csv_test_data.spec.ts",
+          "line": 23,
+          "column": 9
+        },
+        {
+          "title": "Login and select the filter dropDown problem_user,secret_sauce",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 120000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6175,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-07-27T02:03:58.832Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "87a0288ec59a5f8635f2-06e3a88eba0a93eb4c62",
+          "file": "Chapter5/02_csv_test_data.spec.ts",
+          "line": 23,
+          "column": 9
         }
       ]
     }
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-26T07:07:41.869Z",
-    "duration": 8359.925000000745,
-    "expected": 1,
+    "startTime": "2025-07-27T02:03:40.647Z",
+    "duration": 24518.229000002146,
+    "expected": 3,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

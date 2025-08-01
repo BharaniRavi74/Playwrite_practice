@@ -1,11 +1,10 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="8.359925000000745">
-<testsuite name="Chapter4\07_check_box_Radio.spec.ts" timestamp="2025-07-26T07:07:43.183Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.967" errors="0">
-<testcase name="Input box input type" classname="Chapter4\07_check_box_Radio.spec.ts" time="4.967">
-<system-out>
-<![CDATA[
-[[ATTACHMENT|test-results\Chapter4-07_check_box_Radio-Input-box-input-type-chromium\test-finished-1.png]]
-]]>
-</system-out>
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="24.518229000002147">
+<testsuite name="Chapter5\02_csv_test_data.spec.ts" timestamp="2025-07-27T02:03:41.872Z" hostname="chromium" tests="3" failures="0" skipped="0" time="19.653" errors="0">
+<testcase name="Login and select the filter dropDown standard_user,secret_sauce" classname="Chapter5\02_csv_test_data.spec.ts" time="7.252">
+</testcase>
+<testcase name="Login and select the filter dropDown visual_user,secret_sauce" classname="Chapter5\02_csv_test_data.spec.ts" time="6.226">
+</testcase>
+<testcase name="Login and select the filter dropDown problem_user,secret_sauce" classname="Chapter5\02_csv_test_data.spec.ts" time="6.175">
 </testcase>
 </testsuite>
 </testsuites>

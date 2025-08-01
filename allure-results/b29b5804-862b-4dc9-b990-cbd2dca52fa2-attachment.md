@@ -1,0 +1,699 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#start-of-content"
+- banner:
+  - heading "Navigation Menu" [level=2]
+  - link "Homepage":
+    - /url: /
+  - navigation "Global":
+    - list:
+      - listitem:
+        - button "Product"
+      - listitem:
+        - button "Solutions"
+      - listitem:
+        - button "Resources"
+      - listitem:
+        - button "Open Source"
+      - listitem:
+        - button "Enterprise"
+      - listitem:
+        - link "Pricing":
+          - /url: https://github.com/pricing
+  - button "Search or jump to…"
+  - link "Sign in":
+    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FBakkappaN%2FPlaywrightAPITestingTutorial
+  - link "Sign up":
+    - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=BakkappaN%2FPlaywrightAPITestingTutorial
+  - button "Appearance settings"
+- main:
+  - link "BakkappaN":
+    - /url: /BakkappaN
+  - text: /
+  - strong:
+    - link "PlaywrightAPITestingTutorial":
+      - /url: /BakkappaN/PlaywrightAPITestingTutorial
+  - text: Public
+  - list:
+    - listitem:
+      - link "You must be signed in to change notification settings":
+        - /url: /login?return_to=%2FBakkappaN%2FPlaywrightAPITestingTutorial
+        - text: Notifications
+    - listitem:
+      - link "Fork 17":
+        - /url: /login?return_to=%2FBakkappaN%2FPlaywrightAPITestingTutorial
+    - listitem:
+      - link "You must be signed in to star a repository":
+        - /url: /login?return_to=%2FBakkappaN%2FPlaywrightAPITestingTutorial
+        - text: Star 22
+  - navigation "Repository":
+    - list:
+      - listitem:
+        - link "Code":
+          - /url: /BakkappaN/PlaywrightAPITestingTutorial
+      - listitem:
+        - link "Issues":
+          - /url: /BakkappaN/PlaywrightAPITestingTutorial/issues
+      - listitem:
+        - link "Pull requests":
+          - /url: /BakkappaN/PlaywrightAPITestingTutorial/pulls
+      - listitem:
+        - link "Actions":
+          - /url: /BakkappaN/PlaywrightAPITestingTutorial/actions
+      - listitem:
+        - link "Projects":
+          - /url: /BakkappaN/PlaywrightAPITestingTutorial/projects
+      - listitem:
+        - link "Security":
+          - /url: /BakkappaN/PlaywrightAPITestingTutorial/security
+      - listitem:
+        - link "Insights":
+          - /url: /BakkappaN/PlaywrightAPITestingTutorial/pulse
+  - heading "BakkappaN/PlaywrightAPITestingTutorial" [level=1]
+  - button "main branch": main
+  - link "1 Branch":
+    - /url: /BakkappaN/PlaywrightAPITestingTutorial/branches
+    - strong: "1"
+    - text: Branch
+  - link "0 Tags":
+    - /url: /BakkappaN/PlaywrightAPITestingTutorial/tags
+    - strong: "0"
+    - text: Tags
+  - combobox "Go to file"
+  - button "Code"
+  - heading "Folders and files" [level=2]
+  - table "Folders and files":
+    - rowgroup:
+      - row "Name Last commit message Last commit date":
+        - cell "Name"
+        - cell "Last commit message"
+        - cell "Last commit date"
+    - rowgroup:
+      - row "Latest commit BakkappaN commits by BakkappaN Update README.md Commit 4aaaa5c · Jan 30, 2024last year History 7 Commits":
+        - cell "Latest commit BakkappaN commits by BakkappaN Update README.md Commit 4aaaa5c · Jan 30, 2024last year History 7 Commits":
+          - heading "Latest commit" [level=2]
+          - link "BakkappaN":
+            - /url: /BakkappaN
+            - img "BakkappaN"
+          - link "commits by BakkappaN":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commits?author=BakkappaN
+            - text: BakkappaN
+          - link "Update README.md":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/4aaaa5c3d246b543e3db53bc6c4c80de7725f3dc
+          - link "Commit 4aaaa5c":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/4aaaa5c3d246b543e3db53bc6c4c80de7725f3dc
+            - text: 4aaaa5c
+          - text: · Jan 30, 2024last year
+          - heading "History" [level=2]
+          - link "7 Commits":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commits/main/
+      - row "test-data, (Directory) playwright api testing tutorial Jan 4, 20242 years ago":
+        - cell "test-data, (Directory)":
+          - link "test-data, (Directory)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/tree/main/test-data
+            - text: test-data
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/ba3c16568b3ade3fca5a856339fd8d6ff31285a3
+        - cell "Jan 4, 20242 years ago"
+      - row "tests-examples, (Directory) playwright api testing tutorial Jan 3, 20242 years ago":
+        - cell "tests-examples, (Directory)":
+          - link "tests-examples, (Directory)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/tree/main/tests-examples
+            - text: tests-examples
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/3c992e55df6ea02acd344f5fe3f93b08ee2ae922
+        - cell "Jan 3, 20242 years ago"
+      - row "tests, (Directory) playwright api testing tutorial Jan 4, 20242 years ago":
+        - cell "tests, (Directory)":
+          - link "tests, (Directory)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/tree/main/tests
+            - text: tests
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/ba3c16568b3ade3fca5a856339fd8d6ff31285a3
+        - cell "Jan 4, 20242 years ago"
+      - row "utils, (Directory) playwright api testing tutorial Jan 4, 20242 years ago":
+        - cell "utils, (Directory)":
+          - link "utils, (Directory)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/tree/main/utils
+            - text: utils
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/ba3c16568b3ade3fca5a856339fd8d6ff31285a3
+        - cell "Jan 4, 20242 years ago"
+      - row ".gitignore, (File) playwright api testing tutorial Jan 3, 20242 years ago":
+        - cell ".gitignore, (File)":
+          - link ".gitignore, (File)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/blob/main/.gitignore
+            - text: .gitignore
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/3c992e55df6ea02acd344f5fe3f93b08ee2ae922
+        - cell "Jan 3, 20242 years ago"
+      - row "README.md, (File) Update README.md Jan 30, 2024last year":
+        - cell "README.md, (File)":
+          - link "README.md, (File)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/blob/main/README.md
+            - text: README.md
+        - cell "Update README.md":
+          - link "Update README.md":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/4aaaa5c3d246b543e3db53bc6c4c80de7725f3dc
+        - cell "Jan 30, 2024last year"
+      - row "package-lock.json, (File) playwright api testing tutorial Jan 3, 20242 years ago":
+        - cell "package-lock.json, (File)":
+          - link "package-lock.json, (File)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/blob/main/package-lock.json
+            - text: package-lock.json
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/3c992e55df6ea02acd344f5fe3f93b08ee2ae922
+        - cell "Jan 3, 20242 years ago"
+      - row "package.json, (File) playwright api testing tutorial Jan 3, 20242 years ago":
+        - cell "package.json, (File)":
+          - link "package.json, (File)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/blob/main/package.json
+            - text: package.json
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/3c992e55df6ea02acd344f5fe3f93b08ee2ae922
+        - cell "Jan 3, 20242 years ago"
+      - row "playwright.config.js, (File) playwright api testing tutorial Jan 3, 20242 years ago":
+        - cell "playwright.config.js, (File)":
+          - link "playwright.config.js, (File)":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/blob/main/playwright.config.js
+            - text: playwright.config.js
+        - cell "playwright api testing tutorial":
+          - link "playwright api testing tutorial":
+            - /url: /BakkappaN/PlaywrightAPITestingTutorial/commit/3c992e55df6ea02acd344f5fe3f93b08ee2ae922
+        - cell "Jan 3, 20242 years ago"
+  - heading "Repository files navigation" [level=2]
+  - navigation "Repository files":
+    - list:
+      - listitem:
+        - link "README":
+          - /url: "#"
+  - button "Outline"
+  - article:
+    - heading "Playwright API Testing Tutorial - https://bit.ly/playwright-api-testing-tutorial" [level=3]:
+      - text: Playwright API Testing Tutorial -
+      - link "https://bit.ly/playwright-api-testing-tutorial":
+        - /url: https://bit.ly/playwright-api-testing-tutorial
+    - 'link "Permalink: Playwright API Testing Tutorial - https://bit.ly/playwright-api-testing-tutorial"':
+      - /url: "#playwright-api-testing-tutorial---httpsbitlyplaywright-api-testing-tutorial"
+    - heading "Postman Collections - https://www.youtube.com/watch?v=HNtgl4KHW7k&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=10" [level=3]:
+      - text: Postman Collections -
+      - link "https://www.youtube.com/watch?v=HNtgl4KHW7k&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=10":
+        - /url: https://www.youtube.com/watch?v=HNtgl4KHW7k&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=10
+    - 'link "Permalink: Postman Collections - https://www.youtube.com/watch?v=HNtgl4KHW7k&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=10"':
+      - /url: "#postman-collections---httpswwwyoutubecomwatchvhntgl4khw7klistpluedilio4thgcgnp3_ocb_i_l4itai5qtindex10"
+    - heading "Playwright Automation Full Course - https://bit.ly/playwright-tutorial-automation-testing" [level=3]:
+      - text: Playwright Automation Full Course -
+      - link "https://bit.ly/playwright-tutorial-automation-testing":
+        - /url: https://bit.ly/playwright-tutorial-automation-testing
+    - 'link "Permalink: Playwright Automation Full Course - https://bit.ly/playwright-tutorial-automation-testing"':
+      - /url: "#playwright-automation-full-course---httpsbitlyplaywright-tutorial-automation-testing"
+    - heading "Playwright with Dynamics 365 CRM - https://youtu.be/WwovRRp0f4o?si=oqPE2ux7UcDeJMm6" [level=3]:
+      - text: Playwright with Dynamics 365 CRM -
+      - link "https://youtu.be/WwovRRp0f4o?si=oqPE2ux7UcDeJMm6":
+        - /url: https://youtu.be/WwovRRp0f4o?si=oqPE2ux7UcDeJMm6
+    - 'link "Permalink: Playwright with Dynamics 365 CRM - https://youtu.be/WwovRRp0f4o?si=oqPE2ux7UcDeJMm6"':
+      - /url: "#playwright-with-dynamics-365-crm---httpsyoutubewwovrrp0f4osioqpe2ux7ucdejmm6"
+    - heading "Playwright with Azure DevOps Pipeline - Coming soon." [level=3]
+    - 'link "Permalink: Playwright with Azure DevOps Pipeline - Coming soon."':
+      - /url: "#playwright-with-azure-devops-pipeline---coming-soon"
+    - heading "Install Playwright & Select Configurations" [level=4]
+    - 'link "Permalink: Install Playwright & Select Configurations"':
+      - /url: "#install-playwright--select-configurations"
+    - list:
+      - listitem: npm init playwright@latest
+    - paragraph: Playwright will download the browsers needed as well as create the following files.
+    - list:
+      - listitem: node_modules
+      - listitem: playwright.config.js
+      - listitem: package.json
+      - listitem: package-lock.json
+      - listitem: tests/ example.spec.js
+      - listitem: tests-examples/ demo-todo-app.spec.js
+    - heading "dotenv Package Installation Command" [level=4]
+    - 'link "Permalink: dotenv Package Installation Command"':
+      - /url: "#dotenv-package-installation-command"
+    - list:
+      - listitem: npm install dotenv --save
+    - heading "csv-parse Package Installation Command" [level=4]
+    - 'link "Permalink: csv-parse Package Installation Command"':
+      - /url: "#csv-parse-package-installation-command"
+    - list:
+      - listitem: npm install csv-parse
+    - heading "faker-js plugin for test data generation" [level=4]
+    - 'link "Permalink: faker-js plugin for test data generation"':
+      - /url: "#faker-js-plugin-for-test-data-generation"
+    - list:
+      - listitem: npm install @faker-js/faker --save-dev
+    - heading "luxon plugin for custom dates" [level=4]
+    - 'link "Permalink: luxon plugin for custom dates"':
+      - /url: "#luxon-plugin-for-custom-dates"
+    - list:
+      - listitem: npm install --save luxon
+    - heading "Playwright Important Commands" [level=2]
+    - 'link "Permalink: Playwright Important Commands"':
+      - /url: "#playwright-important-commands"
+    - paragraph: npx playwright install
+    - list:
+      - listitem: Install Browsers manually.
+    - paragraph: npx playwright test
+    - list:
+      - listitem: Runs the end-to-end tests.
+    - paragraph: npx playwright test --ui
+    - list:
+      - listitem: Starts the interactive UI mode.
+    - paragraph: npx playwright test --project=chromium
+    - list:
+      - listitem: Runs the tests only on Desktop Chrome.
+    - paragraph: npx playwright test example
+    - list:
+      - listitem: Runs the tests in a specific file.
+    - paragraph: npx playwright test --debug
+    - list:
+      - listitem: Runs the tests in debug mode.
+    - paragraph: npx playwright codegen
+    - list:
+      - listitem: Auto generate tests with Codegen.
+    - paragraph: "We suggest that you begin by typing:"
+    - code: npx playwright test
+    - button "Copy"
+    - heading "And check out the following files:" [level=3]
+    - 'link "Permalink: And check out the following files:"':
+      - /url: "#and-check-out-the-following-files"
+    - list:
+      - listitem: .\tests\example.spec.js - Example end-to-end test
+      - listitem: .\tests-examples\demo-todo-app.spec.js - Demo Todo App end-to-end tests
+      - listitem: .\playwright.config.js - Playwright Test configuration
+    - heading "Allure Report with Playwright [Screenshots, Videos & Traces]" [level=2]
+    - 'link "Permalink: Allure Report with Playwright [Screenshots, Videos & Traces]"':
+      - /url: "#allure-report-with-playwright-screenshots-videos--traces"
+    - list:
+      - listitem:
+        - paragraph: "Step1: Install Allure Report command-line tool"
+        - heading "npm install --save-dev allure-commandline" [level=3]
+        - 'link "Permalink: npm install --save-dev allure-commandline"':
+          - /url: "#npm-install---save-dev-allure-commandline"
+      - listitem:
+        - paragraph: "Step2: Install the Allure Playwright adapter."
+        - heading "npm install --save-dev allure-playwright" [level=3]
+        - 'link "Permalink: npm install --save-dev allure-playwright"':
+          - /url: "#npm-install---save-dev-allure-playwright"
+      - listitem:
+        - paragraph: "Step3: Add below config in playwright.config.js file."
+        - heading "reporter:[" [level=3]
+        - 'link "Permalink: reporter:["':
+          - /url: "#reporter"
+        - heading "['html']," [level=3]
+        - 'link "Permalink: [''html''],"':
+          - /url: "#html"
+        - heading "['allure-playwright']" [level=3]
+        - 'link "Permalink: [''allure-playwright'']"':
+          - /url: "#allure-playwright"
+        - heading "]," [level=3]
+        - 'link "Permalink: ],"':
+          - /url: "#"
+      - listitem:
+        - paragraph: "Step4: Run Playwright tests."
+        - heading "npx playwright test" [level=3]
+        - 'link "Permalink: npx playwright test"':
+          - /url: "#npx-playwright-test"
+      - listitem:
+        - paragraph: "Step5: Generate Allure Report"
+        - heading "npx allure serve allure-results" [level=3]
+        - 'link "Permalink: npx allure serve allure-results"':
+          - /url: "#npx-allure-serve-allure-results"
+    - paragraph:
+      - link "image":
+        - /url: https://private-user-images.githubusercontent.com/22426896/295566411-0dc08076-a4ba-4f9f-9b89-ecd8fc81f5ba.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTU1NjY0MTEtMGRjMDgwNzYtYTRiYS00ZjlmLTliODktZWNkOGZjODFmNWJhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyODhhNGJlMjhmNDlkMDQ5ODYxY2E2YWU3NGE5Y2Q1NDcyYTBkN2M4MjRiMmExODFmYjJkZDVhNWI4OGQ0ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0VHJi3kp0XGL4KgWTQCNtE7cJ6Lcv_pF_of_uAtv9o0
+        - img "image"
+    - paragraph:
+      - link "image":
+        - /url: https://private-user-images.githubusercontent.com/22426896/295566570-5fc751fa-81ca-4dc6-9c49-54834258d0aa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTU1NjY1NzAtNWZjNzUxZmEtODFjYS00ZGM2LTljNDktNTQ4MzQyNThkMGFhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlmOTI5NTkzZjE3MTgzMzZhNjM4ZDAyNzIzNmM5ZGFjNGM0NzYyNGY3ZTg0ZjM5YmViYzljOTFjYmYzZmQyY2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vGj-ycf9VNBrou4A7isrimERErBKeucdr5kXaWU9LsM
+        - img "image"
+    - paragraph:
+      - link "image":
+        - /url: https://private-user-images.githubusercontent.com/22426896/295566745-36161f37-2cf2-4373-a30d-f888adb405de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTU1NjY3NDUtMzYxNjFmMzctMmNmMi00MzczLWEzMGQtZjg4OGFkYjQwNWRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczNzIzODg4MzI4NGI0NTdlOGE0YzQxOWUxOTgwN2E1ZWI5YWRkNzdjZmIzNWZkMWQ1YmQ4NmZlYzZhODExNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tDg_xdE4nvA_RWzFtxyS75O-PuyKK__5B9BZECHYZDA
+        - img "image"
+    - paragraph:
+      - link "image":
+        - /url: https://private-user-images.githubusercontent.com/22426896/295566900-b7ef2588-adbd-40fc-9801-ed1554fd38ef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTU1NjY5MDAtYjdlZjI1ODgtYWRiZC00MGZjLTk4MDEtZWQxNTU0ZmQzOGVmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwNTE4NGZlOTE2ZmY0YmJhN2UwZGNhMWE1MjEyYmVkZmI1M2FiNjM5NmQxZTg3ZTA5YTI4MGZhMzAwZWQxYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3l8-Hd2LMcqhLNRwCbNmOlI6xlBwvjbQJ3UhNFqDgIs
+        - img "image"
+    - heading "Playwright Test Report" [level=2]
+    - 'link "Permalink: Playwright Test Report"':
+      - /url: "#playwright-test-report"
+    - paragraph:
+      - link "image":
+        - /url: https://private-user-images.githubusercontent.com/22426896/295567540-dd9e360b-bd9e-425a-9191-848a13791d29.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTU1Njc1NDAtZGQ5ZTM2MGItYmQ5ZS00MjVhLTkxOTEtODQ4YTEzNzkxZDI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4ZTM0NzZiZDM4ODkwNDlhZjk2ZDhhY2EzNzQyMTI1MzMzYzhmZjA1ZmM4MGFmNDg0ODk1NjIyNjE3MDk0YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZhGS9b2NdbplbszfAHYfgwlQ1Lra--1QxIo_GclAbe8
+        - img "image"
+    - paragraph:
+      - link "image":
+        - /url: https://private-user-images.githubusercontent.com/22426896/295567869-9ea0128b-5906-476f-9fc7-615b240d7623.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTU1Njc4NjktOWVhMDEyOGItNTkwNi00NzZmLTlmYzctNjE1YjI0MGQ3NjIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhMTYxYTlkN2ExZmNlNmRiN2VmYjBkZjE0N2ExZDRkZmE3ZWYxN2U0MzliNGM2ZjYyMTM1NmFmZTgxY2Q4MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VdEL6eYtU7HQ-PxgTXEW-7c-I8seHKU9mif1MpfyKi0
+        - img "image"
+    - paragraph:
+      - link "image":
+        - /url: https://private-user-images.githubusercontent.com/22426896/295567735-379bb630-b84d-4a47-a70e-8afca0d33240.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTU1Njc3MzUtMzc5YmI2MzAtYjg0ZC00YTQ3LWE3MGUtOGFmY2EwZDMzMjQwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRhMGYxNTc4MGY4ZmMwZjk4Yjg3OTY4NWE0NjMwYzQ2NDNkZjgzNWNhMGJlZTdhMjI0MTI2NzE3YzRlYTY2OTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OWUy6nUIvHVmKEigbFjN9GsP5ghLgk9W-QUphcnPdH8
+        - img "image"
+    - heading "Integrate Playwright with Azure Devops Pipeline" [level=2]
+    - 'link "Permalink: Integrate Playwright with Azure Devops Pipeline"':
+      - /url: "#integrate-playwright-with-azure-devops-pipeline"
+    - paragraph: There are 2 options, option1 is using yaml file & option2 is without using yaml file. let's see one by one
+    - list:
+      - listitem:
+        - text: Option1 - Using YAML File
+        - list:
+          - listitem:
+            - paragraph:
+              - text: "Step1: Create a new project in ADO then Click on Project"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296551646-0ec3b6b7-748f-4d0a-80bf-762e24728afb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1NTE2NDYtMGVjM2I2YjctNzQ4Zi00ZDBhLTgwYmYtNzYyZTI0NzI4YWZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmOWE0MjVkYzAxYjAwMjVlMjBiZTJlYWRkNWQ0ZGI0ZWVhZmM3ODQ2ZjkyOWY2ZmY5MDg0NTFjMjU2MjBhNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.06rhpzZNgOOXZk8aCrCFjRwMrteKzJ0XZ94x1iH0lDw
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step2: Click on Repos & Let's create new repository, Click on New reposiotry"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296568209-fe0485c8-2708-456b-9030-a046b1170c70.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1NjgyMDktZmUwNDg1YzgtMjcwOC00NTZiLTkwMzAtYTA0NmIxMTcwYzcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5ZTZlMjMwYjliZGY4MDc5ZWQ4NmVhN2U3YzA4MGIxMTRlMmRlYTE2YjI3Y2Q2Y2RjY2YyNDMxZDkwN2M3NTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._nfIYFNXZLLUhhPxu3xB158MODdG6V4eEk2Y6pB1F74
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step3: Enter Repository name & Click on Create"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296585609-ea15010a-4308-41c2-883e-f0ddee48908f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1ODU2MDktZWExNTAxMGEtNDMwOC00MWMyLTg4M2UtZjBkZGVlNDg5MDhmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ODc0YTFiZDQ1ZmU0YzVmMTE5Y2VlYTFjZjA4M2UxOWIxM2ZkNmQzNGIzMmFiODlkZDY3MWIzODc4YmM2MzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OmFXpiE8UKdAUJCjeWfx_G3ZvBBa_wU013Kg0va3x3U
+                - img "image"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296586053-0ee53f40-2d9e-4dbb-8301-5cc2c615d647.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1ODYwNTMtMGVlNTNmNDAtMmQ5ZS00ZGJiLTgzMDEtNWNjMmM2MTVkNjQ3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3YjI4ODJhZTVjZWQzNjg1OWQ3YjI2OWEwMjFlMDY3MDMwYzRiODZlZDQxMWQxYWUxZjY4OGUyOWI4NjBjMjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.o_j8L0LcA__hjadOugTx2dTbNGmGn7TvZjYJgQeC0T0
+                - img "image"
+          - listitem:
+            - paragraph: "Step4: Click on Clone button and get the URL. Go to your system then clone repository."
+          - listitem:
+            - paragraph:
+              - text: "Step5: Add all the playwright framework folders inside cloned repository"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296592160-b8039254-cba5-46ff-9696-0aad20dd9876.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1OTIxNjAtYjgwMzkyNTQtY2JhNS00NmZmLTk2OTYtMGFhZDIwZGQ5ODc2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzZjgzNTBiYjExMjNjYmNjNWU5MzU1Njg0MDRlOTIzOTY0YWI3YmY2MjRhMDg5NmNkNzliZmVkM2JlZGQwZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LflC_hxhlxlv25xm-7tCHEe3_R2iG36tIw_jmj8Q0ws
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step6: Push all the folders into Azure devops"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296593143-add3e34a-5ba8-4792-9d2c-dbae06bc6a64.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1OTMxNDMtYWRkM2UzNGEtNWJhOC00NzkyLTlkMmMtZGJhZTA2YmM2YTY0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljYjBlMDZkZWQxYjYyZTRjMjBiMjY3YjhlYmY1MTg0MjA5MDEzMDQ4MGQ2YTJhYjI2MDc4Yjc3NjE2OWNjMTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-TmldsqUKcozbZqpRfr2Wq3pA7IAgtSazPM3C8njqMs
+                - img "image"
+          - listitem:
+            - paragraph: "Step7: Repository is ready now, let's create pipeline. Click on Pipelines->Create Pipeline"
+          - listitem:
+            - paragraph:
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296594179-7bb2f8dc-8253-46ab-879a-743446211bdf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1OTQxNzktN2JiMmY4ZGMtODI1My00NmFiLTg3OWEtNzQzNDQ2MjExYmRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0MzFkNWFmMGEwNGY1OWE5YmM2ODc3ZTRlM2NiZTYzZDg5YjdkZmI4NTk3NGE2ZjEwNjExYjg2NzFmN2JiNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sn-2A-Q2wNz2VSqwxUsF0n64JzSOV4X_kW3wltaZgno
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step8: Click on Azure Repos Git"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296594629-885628e1-8e4c-43fc-ba6a-6125ec34e6fb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1OTQ2MjktODg1NjI4ZTEtOGU0Yy00M2ZjLWJhNmEtNjEyNWVjMzRlNmZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjNDdjYjJlYTg1YjMzMjNkODVmNjdiMTBjNTJlNDM3YmI1ZjA1NWVkY2U1OWNkNWU3MTYzOWFkNTYyNDlkYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mhEVkIBxjOiwItPFhmDCxGDmH_A1SzbNSPMUVJNWWJk
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step9: Select previously created repository"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296595058-09b1489d-f699-4885-84a4-c06554adc3e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1OTUwNTgtMDliMTQ4OWQtZjY5OS00ODg1LTg0YTQtYzA2NTU0YWRjM2U2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxMGU0ZjhlYzlmNjkwN2Y4YjBmOWY3MTlhNGE3MmE0MzU5MDVlNWI4MmMxZjc5MjIwOTM0NTQ5YmZiMzM3NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q59WPGP_CIh3S4ATuu815z62XeurSXroVf-TKEbhP7U
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step10: Select Starter Pipeline"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296595766-3db45ed6-c0c9-4033-b786-b8ca7e263ce4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY1OTU3NjYtM2RiNDVlZDYtYzBjOS00MDMzLWI3ODYtYjhjYTdlMjYzY2U0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhOTE4MTRjOGYxMzQyZmMxZWU2NTc2NTU3MGQ0OGRkYmI0ZTYwMzFkMTBhZDU4ZjJkYTA5NTFiNjdjODM4YTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.x0KSaG07udWuwBCCnoQrhwecEjPdPQnWFeBdTwb5cng
+                - img "image"
+          - listitem:
+            - paragraph: "Step11: Copy below yaml content and paste it inside azure-pipelines.yml file."
+    - code: "trigger: - main pool: vmImage: ubuntu-latest steps: - task: NodeTool@0 inputs: versionSpec: '18' displayName: 'Install Node.js' - script: npm ci displayName: 'npm ci' - script: npx playwright install --with-deps displayName: 'Install Playwright browsers' - script: npx playwright test displayName: 'Run Playwright tests' env: CI: 'true'"
+    - button "Copy"
+    - paragraph: If you are running in self hosted agent replace pool commands
+    - code: "pool: name: AgentPoolName demands: - agent.name -equals AgentName"
+    - button "Copy"
+    - list:
+      - listitem:
+        - paragraph:
+          - text: "Step12: Click on Save and run"
+          - link "image":
+            - /url: https://private-user-images.githubusercontent.com/22426896/296600185-208f9b43-735a-45e1-b5c3-699df9e6d8f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY2MDAxODUtMjA4ZjliNDMtNzM1YS00NWUxLWI1YzMtNjk5ZGY5ZTZkOGYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4NWJiYWVkZTZlYzBlYmMyMzZiZWUzY2VhN2NkNzA4YWRiMGNiMzE0N2VjMzNiY2E4MjI5YTAzNmZjOGRmMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wUCof99oSEZvuDCMU6Df1vTXn4YeKX2oKJeDjIl78Ag
+            - img "image"
+          - link "image":
+            - /url: https://private-user-images.githubusercontent.com/22426896/296600530-41262f5d-6e80-4274-a4fc-75d0536e73a7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY2MDA1MzAtNDEyNjJmNWQtNmU4MC00Mjc0LWE0ZmMtNzVkMDUzNmU3M2E3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyY2U5YWQwYTY4Njk5NjIwMmYzZWU4MjY3Yjg2YmQzMzRiOTczNDZkMjVlMjBhMTBlNWQ5MDg2NTg5ZmE4OGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CrtRRrwcBtk8wRd87usXT49xBFou2JpWhsfjEvJnpKE
+            - img "image"
+      - listitem:
+        - paragraph: "Step13: You will see job queued like this."
+      - listitem:
+        - paragraph:
+          - link "image":
+            - /url: https://private-user-images.githubusercontent.com/22426896/296602179-1fff0860-2ac5-45b0-aa45-757afb76777e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY2MDIxNzktMWZmZjA4NjAtMmFjNS00NWIwLWFhNDUtNzU3YWZiNzY3NzdlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzNGUzOGY1ZGJjYTQ3OTVjYTMyMDgxYTNhOTZjOGM1ZGJlMzQ3MWUyMWMzNWZlMzUzMGRhYjAxMTRhOTA0Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uHVqOLr6Lr5VaWQbVjD93f-9JPJoB0n7XcwXBKjpGdg
+            - img "image"
+      - listitem:
+        - paragraph:
+          - text: "Step14: Click on Job & Verify build status."
+          - link "image":
+            - /url: https://private-user-images.githubusercontent.com/22426896/296602816-66326c8f-d789-4856-b90c-8909bef95930.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY2MDI4MTYtNjYzMjZjOGYtZDc4OS00ODU2LWI5MGMtODkwOWJlZjk1OTMwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2Y2E0MjhmMzUwNTYwODcxNTBiNGI2OGYxNTIxZDUwODJhY2FiNjM0MjFlZWE0YjE1OTg2MTBmODdmY2JmMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2byAEQP5cu1KVcjpxz5xiKofFJDewVffHLCMYWOUXmw
+            - img "image"
+      - listitem:
+        - paragraph: "Step15: Now let's Upload playwright-report folder with Azure Pipelines & Report generation Firstly update azure-pipelines.yml file"
+    - code: "trigger: - main pool: vmImage: ubuntu-latest steps: - task: NodeTool@0 inputs: versionSpec: '18' displayName: 'Install Node.js' - script: npm ci displayName: 'npm ci' - script: npx playwright install --with-deps displayName: 'Install Playwright browsers' - script: npx playwright test displayName: 'Run Playwright tests' env: CI: 'true' - task: PublishTestResults@2 displayName: 'Publish test results' inputs: searchFolder: 'test-results' testResultsFormat: 'JUnit' testResultsFiles: 'e2e-junit-results.xml' mergeTestResults: true failTaskOnFailedTests: true testRunTitle: 'My End-To-End Tests' condition: succeededOrFailed() - task: PublishPipelineArtifact@1 inputs: targetPath: playwright-report artifact: playwright-report publishLocation: 'pipeline' condition: succeededOrFailed()"
+    - button "Copy"
+    - list:
+      - listitem:
+        - text: "Step16: Verify playwright-report folder attachment & report. From job we can navigate into artifacts folder. Download playwright report and verify results."
+        - link "image":
+          - /url: https://private-user-images.githubusercontent.com/22426896/296605935-54aaf4b4-7715-435d-b96a-7a19c23fa384.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY2MDU5MzUtNTRhYWY0YjQtNzcxNS00MzVkLWI5NmEtN2ExOWMyM2ZhMzg0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZDdjNWY2YjA5MDQyYTZmYzJiMDEwNDViN2NlNDVjNWQ2YzI4MzI3ZDM4ODBiZjc3OGRhZTJjNjFmNGM2ZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.huG1QWomMFxChW3kVphLWxYgqo5HCeJl1NlwU5TVJJE
+          - img "image"
+        - link "image":
+          - /url: https://private-user-images.githubusercontent.com/22426896/296606989-5ed6c543-4162-43a9-9f21-9643d7f52438.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY2MDY5ODktNWVkNmM1NDMtNDE2Mi00M2E5LTlmMjEtOTY0M2Q3ZjUyNDM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0MmYxZjk5ODRhNWY5OGFhZjc3MDZiMmJiNDkxMDMwNzM2NzE1ZWJiMDQwNzkzMmUwZTBmMjI3MzM5OWJhNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Zz9BhVw6nUL4TWPl5jhw0nlTzP_3ol30IdC26tTMU7s
+          - img "image"
+    - list:
+      - listitem:
+        - paragraph: Option2 - Without using YAML File
+        - list:
+          - listitem:
+            - paragraph: "Step1: Repeat step 1 to 6 above from Option1"
+          - listitem:
+            - paragraph:
+              - text: "Step2: Click on Pipelines then click on New Pipeline"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296772238-1f753af4-881e-495d-a7dd-8c9163de97ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzIyMzgtMWY3NTNhZjQtODgxZS00OTVkLWE3ZGQtOGM5MTYzZGU5N2ZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyOWE4NmY4NGFiZmJmNjVlNzc5ODI3MGI0NjM5YjE0NGMzYzk2ZjI4NDdlNzVkZjU4YjI0ODY3ZDQ1MWM2YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.h_ZMBNiL2U_Hkq8xtvKktjQNgZBNpcsSVy-XTJmNUeo
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step3: Click on Use the classic editor & Click on Continue"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296772420-499f6cf4-0458-4aba-813a-ad131cea4b02.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzI0MjAtNDk5ZjZjZjQtMDQ1OC00YWJhLTgxM2EtYWQxMzFjZWE0YjAyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3YjBjZjlkNTU4OGUxZmI1ZWUwNmM3ZTc2MDA0Njk1MzVhODM4ZWRlNjdkNjBjZWJjYmQ2YzFiODg4OThmOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Qlq2y9OUbMFbdnxIMFaxtN0GGI3Nt33fWKuJ0-S02S8
+                - img "image"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296772710-332011f7-0ae4-46ce-a9c2-3c2a9d66f599.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzI3MTAtMzMyMDExZjctMGFlNC00NmNlLWE5YzItM2MyYTlkNjZmNTk5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkYTdlM2UyYjNiNDM1YWM3OWI0ZWIyMGE4ZDkwZjJhOTZhNmRjMmQ1NjNiZTMyMjljYmZlOGZkMThiODcxMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Gaf1804UMvSB4LhhRDo918Y742sQL17ORbBRedHPS6Q
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step4: Click on Emtpy job"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296773845-d84dda85-cbc0-4c9f-9147-bc1de36823c4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzM4NDUtZDg0ZGRhODUtY2JjMC00YzlmLTkxNDctYmMxZGUzNjgyM2M0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhOGRhZWRjMzFjYzQxZTBmNDlmNjlkNmNhMDhkODZkZTQ1ZTRmNjdmZGM2N2M3ODViZGVlZjc0NzI5N2M1YWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2oAHtrVY1PmPswuKQEhvjueqklECAA1YCipK2PLvJzs
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step5: Click on + icon, Search for Node and add Node.js tool installer"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296775182-73d32c4d-2cd1-4f78-beb7-ec1bf5f5138a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzUxODItNzNkMzJjNGQtMmNkMS00Zjc4LWJlYjctZWMxYmY1ZjUxMzhhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3YjJmNWY4YWU2NWQ5OWI5MTM4NTdkOGE3YjFiMjRlMWU3ZTZkNTNlY2IyZTUwMjI3MDcxMmRhMDc4YTVmOGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lOduQVyREvkbLpS8VupPyadN-mBe2JVHhxqIV8HZ6t0
+                - img "image"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296776964-64fcf35f-1200-4ccf-b34c-d53072728ced.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzY5NjQtNjRmY2YzNWYtMTIwMC00Y2NmLWIzNGMtZDUzMDcyNzI4Y2VkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJhNDBiYThkNzIyYzA0ZTYyZTg5MjVlMDRkMzVkNWMwZTRhZjUyYTZjMTFkNjQ2MjU0NzM3Nzg2Mjg3N2FhYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sfrozLpoi99xDIgIZksTHu5hrObg1DbYBTAMyMWl_M4
+                - img "image"
+          - listitem:
+            - paragraph: "Step6: Select just now added task and add Node v16 becuase playwright supports for Node v14 and above"
+          - listitem:
+            - paragraph:
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296776209-aa804427-464c-434f-b4e4-27547b245bd9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzYyMDktYWE4MDQ0MjctNDY0Yy00MzRmLWI0ZTQtMjc1NDdiMjQ1YmQ5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyNjk4NzkzMWU0YTUyMzk0MDE1MGNjYTJjMzViYjRjY2UzZTMxMTc1NDUzZTFlYjIyOWRkYWMzNzhhZGMwYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WH63RHyUbSwfOQDBHaZw2sS2cgh4SLzTqqcUz9xJ3N0
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step7: Click on + icon, Similary add Command line task, Display name: Install Playwright & Dependencies Script: npm install && npx playwright install"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296777303-df63a628-ccb4-4709-8c2a-166358dc5264.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzczMDMtZGY2M2E2MjgtY2NiNC00NzA5LThjMmEtMTY2MzU4ZGM1MjY0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5ODQzZTM5MmYxNDYwMGQwZmUyYmJjM2FkNTEzNTVlZmRiZTljYzQ4OWZlODg0YmU5YThjM2ZkMmM0MTY2ZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fu4HOOW5jvbvD3K7Sg-hVAqZczDBzaaLxn_s4RIwlHk
+                - img "image"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296778098-70991c9e-ad21-4ab8-978e-ba02d0f5971f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3NzgwOTgtNzA5OTFjOWUtYWQyMS00YWI4LTk3OGUtYmEwMmQwZjU5NzFmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0YjUzOWI1YjFkNGEyMTBlNDE0MWZhYjE5OGQ0MzdjYTZhZTRmNTA4ZTYxYjIzOTAxMGE5ZTJiODkwNjBlMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qEPb4owuKR2Tzn_2l9DvouXbUZc5c7fKcnNiOai-u0Q
+                - img "image"
+            - paragraph:
+              - text: Click on Advanced-> Click on little icon(i) & select the Link. This will enable working directory for the task.
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296778682-1d6dc42d-e720-4446-b1f7-4589f105ff04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3Nzg2ODItMWQ2ZGM0MmQtZTcyMC00NDQ2LWIxZjctNDU4OWYxMDVmZjA0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhMjY5ZTJiYTQ0OGMyODcwOWJiZDRmYzhmMzBmMmM3MjY5ODFkNmQ5NjE0ZmYwZDFlNzAyYjc5MjVkMDFjYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aVZZx_65rGMPiUYG4ODOko400WFF1BtXIl-eJFiwEOY
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step8: Add another task by clicking on + icon, search for npm & Add npm"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296779463-49eadf73-d640-4c7d-8ea6-730f2291d503.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3Nzk0NjMtNDllYWRmNzMtZDY0MC00YzdkLThlYTYtNzMwZjIyOTFkNTAzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1OGUyNzZlNTc1MzU0YjEzZmViNzYzZWVlMDJlODI2YzZjZGRhYTA5YmI3YWNmYzI1NzEwNmExMmEwY2RkZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jA-iPjmMTwGEttXmlr7oliHVVVnlRRa3a9M9QqfHLlg
+                - img "image"
+            - paragraph:
+              - text: Enter Display name, Select Command as custom & Enter Command and Arguments as run tests
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296780627-f055ace0-8cdb-46e7-9f24-33c808eef4ee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3ODA2MjctZjA1NWFjZTAtOGNkYi00NmU3LTlmMjQtMzNjODA4ZWVmNGVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjODU1MmM5MDRjZWViODBkYjc4ZTVlOTVhMzc2N2VkZmZiNjlmOTYxNDlkNjdiMWMxNGNlNGEzYTkwNWJlNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WsLung-XP3bY9Nbeu1YKkJi6rRneUFVNz2Y_MYmCg4I
+                - img "image"
+            - paragraph:
+              - text: In this task we are referring to the package.json file.
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296781151-6074a566-6efb-46a7-ad37-2108eed90bf8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3ODExNTEtNjA3NGE1NjYtNmVmYi00NmE3LWFkMzctMjEwOGVlZDkwYmY4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzNWMwYWQ0ZTgzNWM1Yzc2M2ZhZjJjOTMxOWJlM2QzMWI1NzFkZmRkNjVhZDk3MDU0YWE3OGNkZmJkYjMzZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mOqigP78KPdrupH2g1jIWZSdu9CpD5o-5yC-LC4XVpY
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step9: Once everthing is completed now it is a time run script. Click on Save & queue."
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296781799-112334f9-6adb-43a5-b2d4-41f364c7527d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3ODE3OTktMTEyMzM0ZjktNmFkYi00M2E1LWIyZDQtNDFmMzY0Yzc1MjdkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkNDc2Njk4M2IxZDEyMGIxMDk5N2ZhODkyYjI0Mzk3MzRjYjFiYTkxNzYwMTFhNDRhN2E2MGVjNTE4ZmU3NzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a19GX0a0A2frTcwsuvjIaHykzVNZbawCKMuTk5bSpOc
+                - img "image"
+        - paragraph: Add commit message then click save & run.
+        - list:
+          - listitem:
+            - paragraph:
+              - text: "Step10: It looks like this"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296782202-ae48637e-d0bf-4a32-8d93-2ea251301068.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3ODIyMDItYWU0ODYzN2UtZDBiZi00YTMyLThkOTMtMmVhMjUxMzAxMDY4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZjhkZjFhYmRlM2EwZjdkNjlmMGUwNGFjM2UwMjNhOGYxNWM0MDgxZTY2MzRhZDlmYTY5NmNhMzUxMjc3ZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IrRfMwypKk0wfrHTFKnL1B8GRmqZviTS1gEAdvPCKGo
+                - img "image"
+            - paragraph:
+              - text: Click on Job and you will see a screen like this
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/296784621-b135a6c0-039c-4b90-934c-849b35e47cbc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8yOTY3ODQ2MjEtYjEzNWE2YzAtMDM5Yy00YjkwLTkzNGMtODQ5YjM1ZTQ3Y2JjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3MjVmNzkyZTkzYzViZjVhY2ZhNjhmMzc3MDFiNTc0ODZmZDM1YjY5ZjVkYjljZjE3OTcwZWYzMjhiZDk4ZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.q4pdsyOOtn37j4c21AdKc6PJU068dF_6hOtnHD9jwos
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step11: We can also upload playwright-report using Publish Pipeline Artifacts task"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/300677542-138a4af7-addd-4498-8296-64468c957610.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8zMDA2Nzc1NDItMTM4YTRhZjctYWRkZC00NDk4LTgyOTYtNjQ0NjhjOTU3NjEwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxN2MzNDBlOTc3ODFlYWVlZDA3ZDk2MGEyNTdiNWIxZGE2N2Y0M2YzOWYzMzQ2OGUwM2NmYmU2NDdkYjA0YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bzLp73MIix7Irya1a9Z2B2NGqiRaC0E3GXJI9BZKZwo
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: "Step12: Let's Publish Test Results using Publish Test Results task"
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/300677721-f0ea2efe-3509-4e48-baa5-01a2ec9f283d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8zMDA2Nzc3MjEtZjBlYTJlZmUtMzUwOS00ZTQ4LWJhYTUtMDFhMmVjOWYyODNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhODllZTVlN2FlMzcxMjViZWQ0MTcxZmZiYTZlMzNjMzBlZjU4NDNlOTJlNTNmNmNiYjY2NWFmOTc5MzZmOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.u9OnjfQdt-4inPM1QX7V2T4nSOMkya3ucknCKKUH2aw
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: Let's run the pipeline
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/300677991-575518de-feed-4267-b7f1-290e4ad76903.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8zMDA2Nzc5OTEtNTc1NTE4ZGUtZmVlZC00MjY3LWI3ZjEtMjkwZTRhZDc2OTAzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3ZWJiMDVhNmVjOTNmZmY0OTg2OTMyZmMxNTNiYTBjODJmOGE4MDA1YmM4ZDZiODA0NTQ4OWJiOWFhYTM2ZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YyalE1BOAL5J-XmkcytjDU4-TTLxdBzKMMja1nHO06Q
+                - img "image"
+          - listitem:
+            - paragraph:
+              - text: Artifacts are published & also we have published test results
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/300678295-d575766a-2f20-42f2-a1e3-aa5f71259823.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8zMDA2NzgyOTUtZDU3NTc2NmEtMmYyMC00MmYyLWExZTMtYWE1ZjcxMjU5ODIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhY2Q5MGE0NDc4MmIzNDY3ZTQyZGRkNzU0NTAyZTA4ZGVhY2UxMmJjYjMyOTAzODY0ZjJkYmJmNGI3N2UzYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sq4sGM-V0DSbPl6WDJgcLbq12P3Vlj4KiZIwP4gvya4
+                - img "image"
+            - paragraph:
+              - link "image":
+                - /url: https://private-user-images.githubusercontent.com/22426896/300678453-45821475-feb2-4b16-a9ae-126c55cf20a1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1MTgzMTUsIm5iZiI6MTc1MzUxODAxNSwicGF0aCI6Ii8yMjQyNjg5Ni8zMDA2Nzg0NTMtNDU4MjE0NzUtZmViMi00YjE2LWE5YWUtMTI2YzU1Y2YyMGExLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDA4MjAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNGI5OWNiZmM3ZTljNjk0MjJmMWVhMjNlYTQxYmExZmJlMjhjMjg0YTY5MzBmMzQ2YTg3YThkNDY1N2NkODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XppZcBUztX8g1xeAv3NBjoQ_fts5yHqw03IjOVPfv_4
+                - img "image"
+  - heading "About" [level=2]
+  - paragraph: Playwright API Testing Tutorial
+  - link "youtube.com/playlist?list=PLUeDIlio4THF3rnYZ63qkbHwMTXiG67vz&si=GRhm7B2NwSAVhKHB":
+    - /url: https://youtube.com/playlist?list=PLUeDIlio4THF3rnYZ63qkbHwMTXiG67vz&si=GRhm7B2NwSAVhKHB
+  - heading "Topics" [level=3]
+  - link "qa":
+    - /url: /topics/qa
+  - link "restapi":
+    - /url: /topics/restapi
+  - link "allure-report":
+    - /url: /topics/allure-report
+  - link "software-testing":
+    - /url: /topics/software-testing
+  - link "sdet":
+    - /url: /topics/sdet
+  - link "e2e-testing":
+    - /url: /topics/e2e-testing
+  - link "automation-testing":
+    - /url: /topics/automation-testing
+  - link "apitesting":
+    - /url: /topics/apitesting
+  - link "playwright-api":
+    - /url: /topics/playwright-api
+  - link "playwright-tests":
+    - /url: /topics/playwright-tests
+  - link "playwright-javascript":
+    - /url: /topics/playwright-javascript
+  - link "playwright-test":
+    - /url: /topics/playwright-test
+  - link "rest-api-testing":
+    - /url: /topics/rest-api-testing
+  - link "testerstalk":
+    - /url: /topics/testerstalk
+  - link "playwright-api-testing":
+    - /url: /topics/playwright-api-testing
+  - link "playwright-api-testing-tutorial":
+    - /url: /topics/playwright-api-testing-tutorial
+  - link "api-testing-playwright":
+    - /url: /topics/api-testing-playwright
+  - heading "Resources" [level=3]
+  - link "Readme":
+    - /url: "#readme-ov-file"
+  - link "Activity":
+    - /url: /BakkappaN/PlaywrightAPITestingTutorial/activity
+  - heading "Stars" [level=3]
+  - link "22 stars":
+    - /url: /BakkappaN/PlaywrightAPITestingTutorial/stargazers
+    - strong: "22"
+    - text: stars
+  - heading "Watchers" [level=3]
+  - link "1 watching":
+    - /url: /BakkappaN/PlaywrightAPITestingTutorial/watchers
+    - strong: "1"
+    - text: watching
+  - heading "Forks" [level=3]
+  - link "17 forks":
+    - /url: /BakkappaN/PlaywrightAPITestingTutorial/forks
+    - strong: "17"
+    - text: forks
+  - link "Report repository":
+    - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FBakkappaN%2FPlaywrightAPITestingTutorial&report=BakkappaN+%28user%29
+  - heading "Releases" [level=2]:
+    - link "Releases":
+      - /url: /BakkappaN/PlaywrightAPITestingTutorial/releases
+  - text: No releases published
+  - heading "Packages" [level=2]:
+    - link "Packages":
+      - /url: /users/BakkappaN/packages?repo_name=PlaywrightAPITestingTutorial
+  - text: No packages published
+  - heading "Languages" [level=2]
+  - list:
+    - listitem:
+      - link "JavaScript 100.0%":
+        - /url: /BakkappaN/PlaywrightAPITestingTutorial/search?l=javascript
+- contentinfo:
+  - heading "Footer" [level=2]
+  - link "GitHub Homepage":
+    - /url: https://github.com
+  - text: © 2025 GitHub, Inc.
+  - navigation "Footer":
+    - heading "Footer navigation" [level=3]
+    - list "Footer navigation":
+      - listitem:
+        - link "Terms":
+          - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+      - listitem:
+        - link "Privacy":
+          - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+      - listitem:
+        - link "Security":
+          - /url: https://github.com/security
+      - listitem:
+        - link "Status":
+          - /url: https://www.githubstatus.com/
+      - listitem:
+        - link "Docs":
+          - /url: https://docs.github.com/
+      - listitem:
+        - link "Contact":
+          - /url: https://support.github.com?tags=dotcom-footer
+      - listitem:
+        - button "Manage cookies"
+      - listitem:
+        - button "Do not share my personal information"
+```
